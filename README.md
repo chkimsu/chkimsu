@@ -1,12 +1,10 @@
-<h1 align="center">Hi 👋, I'm chansung</h1>
+<h1 align="center">Hi 👋, I'm Soobin, Choi</h1>
 
-<h3 align="center">A passionate developer for everything</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deep-diver" alt="deep-diver" /> </p>
+<h3 align="center">Data Scientist/AI Researcher</h3>
 
-<p>
 👋 Hi! Welcome to my GitHub place.
-I am researcher & software developer at ETRI (Electronics and Telecommunication Research Institute) in south korea. My main areas of interest are SDN(Software Defined Network) for Optical Networks, Machine Learning & Deep Learning (Modeling, and Deployment liek MLOps), and Software Development in general.
-</p>
+I am Data Scientsit & AI Researcher at NCSOFT in south korea. My main areas of interest are Data Analysis, Machine Learning & Deep Learning, and Software Development in general.
+
 
 ### 👨🏼‍💻 Main
 - 👽 I'm currently working on **Software Defined Network for Optical Access Network**
