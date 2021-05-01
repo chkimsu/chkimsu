@@ -47,4 +47,5 @@ I am Data Scientsit & AI Researcher at NCSOFT in south korea. My main areas of i
  - Pytorch (Intermediate)
  - Java (Intermediate)
  - SQL/HiveQL (Intermediate)
+ - Spark (Intermediate)
 
