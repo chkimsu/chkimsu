@@ -6,19 +6,6 @@
 I am Data Scientsit & AI Researcher at NCSOFT in south korea. My main areas of interest are Data Analysis, Machine Learning & Deep Learning, and Software Development in general.
 
 
-### 👨🏼‍💻 Main
-- 👽 I'm currently working on **Software Defined Network for Optical Access Network**
-
-- 👽👽 I'm currently working on **Realizing nemory disaggregation for datacenter in Optical/Electronic hybrid network**
-
-- 🔭 I’m currently working on **MLOps projects with NLP model**
-
-- 🌱 I’m currently learning **TensorFlow, PyTorch related things**
-
-- 👯 I’m looking to collaborate on **any ML/DL projects**
-
-- 📫 How to reach me **deep.diver.csp@gmail.com**
-
 ### 👯 Jobs
 - NCSOFT Data Center/Intelligence & Insight Group/AnalysisnModelling Team : https://danbi-ncsoft.github.io/works/2021/04/13/transformer_embedding.html
 - NTELS IoT Division/AI Team
