@@ -26,7 +26,7 @@ I am Data Scientsit & AI Researcher at NCSOFT in south korea. My main areas of i
 - 네트워크관리사 2급 필기
 - 리눅스마스터 2급
 - 경영빅데이터 분석사 2급(수석합격/신문게재 : https://www.hankyung.com/it/article/2019070400581)
-- 빅데이터분석기사 필기
+- 빅데이터분석기사
 
 ### 🌱 Languages
  - Python (Intermediate)
