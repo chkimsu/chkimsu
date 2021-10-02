@@ -7,7 +7,8 @@ I am Data Scientsit & AI Researcher at NCSOFT in south korea. My main areas of i
 
 
 ### 👯 Jobs
-- NCSOFT Data Center/Intelligence & Insight Group/AnalysisnModelling Team : https://danbi-ncsoft.github.io/works/2021/04/13/transformer_embedding.html
+- NCSOFT Data Center/Intelligence & Insight Group/AnalysisnModelling Team : 
+My Works in NCSOFT : https://danbi-ncsoft.github.io/works/2021/04/13/transformer_embedding.html  / https://danbi-ncsoft.github.io/works/2021/10/01/Generator.html
 - NTELS IoT Division/AI Team
 - Dakyum Freelancer Data Scientist
 - ACRYL AI Division Intern
