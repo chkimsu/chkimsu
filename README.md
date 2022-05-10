@@ -7,6 +7,7 @@ I am Data Scientsit & AI Researcher at NCSOFT in south korea. My main areas of i
 
 
 ### 👯 Jobs
+- NAVER BIZ CIC - AI Dev Moedelling Team Data Scientist & ML Engineer
 - NCSOFT Data Center/Intelligence & Insight Group/AnalysisnModelling Team : 
 My Works in NCSOFT : https://danbi-ncsoft.github.io/works/2021/04/13/transformer_embedding.html  / https://danbi-ncsoft.github.io/works/2021/10/01/Generator.html
 - NTELS IoT Division/AI Team
