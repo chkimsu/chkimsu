@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Soobin, Choi</h1>
 
-<h3 align="center">Data Scientist/AI Researcher</h3>
+<h3 align="center">Data Scientist/ML Engineer</h3>
 
 👋 Hi! Welcome to my GitHub place.
 I am Data Scientsit & AI Researcher at NCSOFT in south korea. My main areas of interest are Data Analysis, Machine Learning & Deep Learning, and Software Development in general.
