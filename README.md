@@ -3,7 +3,7 @@
 <h3 align="center">Data Scientist/ML Engineer</h3>
 
 👋 Hi! Welcome to my GitHub place.
-I am Data Scientsit & AI Researcher at NCSOFT in south korea. My main areas of interest are Data Analysis, Machine Learning & Deep Learning, and Software Development in general.
+I am Data Scientsit & ML Engineer at NAVER in south korea. My main areas of interest are Data Analysis, Machine Learning & Deep Learning, and Software Development in general.
 
 
 ### 👯 Jobs
