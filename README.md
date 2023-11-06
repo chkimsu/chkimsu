@@ -33,7 +33,7 @@ My Works in NCSOFT : https://danbi-ncsoft.github.io/works/2021/04/13/transformer
  - R (Intermediate)
  - Tensorflow (Intermediate)
  - Pytorch (Intermediate)
- - Java (Intermediate)
+ - JavaScript(Vue.js & Node.js) (Intermediate)
  - SQL/HiveQL (Intermediate)
  - Spark (Intermediate)
  - Linux (Intermediate)
